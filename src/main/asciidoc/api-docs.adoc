@@ -1,0 +1,13 @@
+= RESTful API Documents
+:toc: left
+
+== api
+
+=== 유저조회
+include::{snippets}/docker-application-tests/회원리스트/http-request.adoc[]
+include::{snippets}/docker-application-tests/회원리스트/http-response.adoc[]
+
+
+
+
+
